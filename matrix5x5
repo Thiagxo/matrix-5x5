@@ -1,4 +1,4 @@
-algoritmo
+algoritmo "5x5"
 // Função Ler uma matriz 5X5 e gerar outra em que cada elemento é o cubo
 // do elemento respectivo na matriz original.
 // Imprima depois o elemento do meio desta nova matriz;
